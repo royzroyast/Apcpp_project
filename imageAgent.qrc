@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>agent1.jpg</file>
+        <file>agent2.jpg</file>
+        <file>agent3.jpg</file>
+        <file>agent4.jpg</file>
+        <file>agent5.jpg</file>
+        <file>agent6.jpg</file>
+        <file>agent7.jpg</file>
+        <file>agent8.jpg</file>
+        <file>agent9.jpg</file>
+        <file>agent10.jpg</file>
+        <file>agent11.jpg</file>
+        <file>agent12.jpg</file>
+        <file>agent13.jpg</file>
+        <file>agent14.jpg</file>
+        <file>agent15.jpg</file>
+        <file>agent16.jpg</file>
+        <file>agent17.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>

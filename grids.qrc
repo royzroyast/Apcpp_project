@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>grid1.txt</file>
+        <file>grid2.txt</file>
+        <file>grid3.txt</file>
+        <file>grid4.txt</file>
+        <file>grid5.txt</file>
+        <file>grid6.txt</file>
+        <file>grid7.txt</file>
+        <file>grid8.txt</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
